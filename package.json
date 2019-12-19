@@ -7,8 +7,8 @@
     "node": "12.13.0"
   },
   "scripts": {
-    "dev": "nodemon index.js",
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [
     "weather",
