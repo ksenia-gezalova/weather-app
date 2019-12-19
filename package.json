@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Weather app based on Node.js",
   "main": "index.js",
+  "engines": {
+    "node": "12.13.0"
+  },
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js"
